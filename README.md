@@ -5,3 +5,4 @@ Interactive movie menu that allows a user to rate, watch and interact with their
 - Designed to run continuously without crashing, providing a reliable and consistent user experience.
 IMPORTANT NOTE: the file where you should run the game is called 'main.cpp' in this program
 
+
